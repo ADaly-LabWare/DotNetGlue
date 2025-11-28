@@ -1,0 +1,5 @@
+C:\code\DotNetGlue\src\LabObjects.DotNetGlue\bin\Release\LabObjects.DotNetGlue.dll
+C:\code\DotNetGlue\src\LabObjects.DotNetGlue\bin\Release\LabObjects.DotNetGlue.pdb
+C:\code\DotNetGlue\src\LabObjects.DotNetGlue\obj\Release\LabObjects.DotNetGlue.dll
+C:\code\DotNetGlue\src\LabObjects.DotNetGlue\obj\Release\LabObjects.DotNetGlue.pdb
+C:\code\DotNetGlue\src\LabObjects.DotNetGlue\obj\Release\LabObjects.DotNetGlue.csproj.CoreCompileInputs.cache

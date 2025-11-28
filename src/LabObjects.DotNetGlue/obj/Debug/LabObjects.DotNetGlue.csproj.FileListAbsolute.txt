@@ -1,0 +1,5 @@
+C:\code\DotNetGlue\src\LabObjects.DotNetGlue\bin\Debug\LabObjects.DotNetGlue.dll
+C:\code\DotNetGlue\src\LabObjects.DotNetGlue\bin\Debug\LabObjects.DotNetGlue.pdb
+C:\code\DotNetGlue\src\LabObjects.DotNetGlue\obj\Debug\LabObjects.DotNetGlue.dll
+C:\code\DotNetGlue\src\LabObjects.DotNetGlue\obj\Debug\LabObjects.DotNetGlue.pdb
+C:\code\DotNetGlue\src\LabObjects.DotNetGlue\obj\Debug\LabObjects.DotNetGlue.csprojAssemblyReference.cache
